@@ -1,0 +1,5 @@
+Name        :  anik
+Password  :  123456
+Mobile       :  36463
+Email         :  hgh
+Gender      :  Male
